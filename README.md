@@ -8,10 +8,7 @@ This board is designed to control 4 x WS2812B string lights (Max 3A Total) via W
 
 
 
-Board was tested with 2 x WS2812B 5 meters string lights, each draws arround 400-600 mA with color white and brightness at 100%. WLED version was [v0.14.0 "Hoshi"](https://github.com/Aircoookie/WLED/releases/tag/v0.14.0).
-
-
-<img src="/Images/Test_Circuit.png">
+Board was tested with 2 x WS2812B 5 meter string lights, each draws arround 400-600 mA with color white and brightness at 100%. WLED version was [v0.14.0 "Hoshi"](https://github.com/Aircoookie/WLED/releases/tag/v0.14.0).
 
 ------------
 
