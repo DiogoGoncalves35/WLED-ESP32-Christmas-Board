@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32-WROOM-32E__16MB_")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ESP32 WROOM 32E/ESP32-WROOM-32E__16MB_.kicad_sym")(options "")(descr ""))
+)
