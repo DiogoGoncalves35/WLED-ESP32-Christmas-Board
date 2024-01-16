@@ -15,7 +15,7 @@ Board was tested with 2 x WS2812B 5 meter string lights, each draws arround 400-
 
 ### Schematic 
 
-The [schematic](/PCB/Schematic.pdf) is arround ESP32 WROOM 32E microcontroler. A 4A fuse was added to protect the circuit in case of short circuit, the AMS1117 regulates the input voltage to 3.3V and powers the ESP32.
+The [schematic](/PCB/Schematic.pdf) is arround ESP32 WROOM 32E microcontroller. A 4A fuse was added to protect the circuit in case of short circuit, the AMS1117 regulates the input voltage to 3.3V and powers the ESP32.
 
 <img src="/Images/Schematic.png">
 
